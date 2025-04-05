@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:moose_academy/utils/app_routes.dart';
+import 'package:moose_academy/utils/app_theme.dart';
 
 void main() {
   runApp(const MyApp());
